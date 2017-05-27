@@ -1,0 +1,25 @@
+title: Change the Way you view the world with MFXCOIN
+email: metafxinc@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ MFX COIN is a new digital currency that is created by META FX CAPITAL, Dubai. It is based on cryptography and created through a process called 'mining‘ and with an encrypted code each digital coin is unique.MFX COIN can be used to buy merchandise anonymously. In addition, international payments are easy and cheap because MFX COIN are not tied to any country or subject to regulation. Small businesses may like them because there are no credit card fees. Some people just buy MFX COIN as an investment, hoping that they’ll go up in value. When joining MFX COIN, users become part of a global network of millions of MFX COIN miners, who are able to choose among different ways to use their MFX COINs.
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://cyobb.com/mfxcoin" # the base hostname & protocol for your site
+twitter_username: 
+
+markdown: kramdown
+
+name: Change the Way you view the world with MFXCOIN
+
+date: 2017-05-27 20:25:24 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+paginate: 10
+domain_name: http://cyobb.com/mfxcoin/
+google_analytics: UA-31XXXXXX-X
+gems: [jekyll-paginate]
+cover: http://imgh.us/WhatsApp_Image_2017-05-28_at_1.53.03_AM.jpeg
+author_image: http://imgh.us/WhatsApp_Image_2017-05-28_at_1.53.03_AM.jpeg
+# Details for the RSS feed generator
+author:        mfxcoin
