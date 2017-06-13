@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mfx national conventional : updated schedule
+title:  Mfx national conventional  updated schedule
 date:   2017-06-04 17:33:57 +0000
 ---
 
