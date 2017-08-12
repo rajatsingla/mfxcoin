@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mfxcoin chai par charcha -: bhopal
+title:  Mfxcoin chai par charcha - bhopal
 date:   2017-07-11 04:56:05 +0000
 ---
 
