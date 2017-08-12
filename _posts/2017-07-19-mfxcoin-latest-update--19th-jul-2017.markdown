@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mfxcoin latest update : 19th jul 2017
+title:  Mfxcoin latest update  19th jul 2017
 date:   2017-07-19 07:28:30 +0000
 ---
 
