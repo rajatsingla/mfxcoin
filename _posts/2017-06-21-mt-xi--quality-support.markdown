@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mt xi : quality support 
+title:  Mt xi quality support 
 date:   2017-06-21 13:02:18 +0000
 ---
 
