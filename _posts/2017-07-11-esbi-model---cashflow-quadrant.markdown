@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Esbi model -: cashflow quadrant
+title:  Esbi model - cashflow quadrant
 date:   2017-07-11 10:21:05 +0000
 ---
 
