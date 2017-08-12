@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Goa (3rd aug 2017) : informative session of mfx & metacable
+title:  Goa (3rd aug 2017)  informative session of mfx & metacable
 date:   2017-08-03 09:21:47 +0000
 ---
 
