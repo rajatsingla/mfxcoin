@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Movie bond -: meta fx inc ltd.
+title:  Movie bond - meta fx inc ltd.
 date:   2017-08-04 01:21:56 +0000
 ---
 
