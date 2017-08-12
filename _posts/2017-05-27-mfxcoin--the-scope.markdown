@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mfxcoin : the scope
+title:  Mfxcoin the scope
 date:   2017-05-27 19:49:12 +0000
 ---
 
