@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mfxcoin latest update -: currency exchange release date (27th aug 2017)
+title:  Mfxcoin latest update - currency exchange release date (27th aug 2017)
 date:   2017-08-02 01:24:32 +0000
 ---
 
