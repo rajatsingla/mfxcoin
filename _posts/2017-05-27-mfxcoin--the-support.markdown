@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mfxcoin : the support
+title:  Mfxcoin the support
 date:   2017-05-27 19:55:18 +0000
 ---
 
