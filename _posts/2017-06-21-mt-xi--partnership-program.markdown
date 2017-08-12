@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mt xi : partnership program
+title:  Mt xi partnership program
 date:   2017-06-21 13:06:33 +0000
 ---
 
