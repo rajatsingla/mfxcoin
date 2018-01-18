@@ -19,7 +19,7 @@ paginate: 10
 domain_name: http://cyobb.com/mfxcoin/
 google_analytics: UA-31XXXXXX-X
 gems: [jekyll-paginate]
-cover: http://imgh.us/WhatsApp_Image_2017-05-28_at_1.53.03_AM.jpeg
-author_image: http://imgh.us/WhatsApp_Image_2017-05-28_at_1.53.03_AM.jpeg
+cover: https://i.imgur.com/MjuBrCK.jpg
+author_image: https://i.ytimg.com/vi/uaZFm9Z7Bw0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDrWa1235wgAzzhmVimA0mNWza0EA
 # Details for the RSS feed generator
 author:        mfxcoin
